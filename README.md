@@ -4,7 +4,7 @@ Monorepo with a deliberately imperfect **Node.js + Express + PostgreSQL** API an
 
 ## Prerequisites
 
-- Node.js **20+** (LTS)
+- Node.js **22+** (LTS recommended)
 - PostgreSQL **14+** (local install or cloud)
 
 ## 1. Database
